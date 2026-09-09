@@ -1,0 +1,33 @@
+Borough,Avg_Actual,MAE,Pct_Error
+Kensington and Chelsea,1650.0,17.0,1.0
+Hounslow,2291.0,34.0,1.5
+Havering,1710.0,31.0,1.7
+Merton,1115.0,20.0,1.8
+Newham,3578.0,69.0,1.9
+Redbridge,2153.0,51.0,2.3
+Enfield,2558.0,64.0,2.5
+Southwark,3514.0,98.0,2.7
+Harrow,1456.0,40.0,2.8
+Lewisham,2687.0,85.0,3.1
+Lambeth,3398.0,113.0,3.2
+Croydon,3038.0,106.0,3.5
+Hackney,2786.0,99.0,3.5
+Kingston upon Thames,994.0,36.0,3.5
+Wandsworth,2226.0,84.0,3.8
+Tower Hamlets,3286.0,144.0,4.2
+Barnet,2528.0,105.0,4.3
+Bromley,2078.0,96.0,4.6
+Barking and Dagenham,1778.0,85.0,4.7
+Islington,2788.0,137.0,4.8
+Hammersmith and Fulham,1778.0,86.0,4.8
+Brent,2883.0,141.0,4.9
+Ealing,2834.0,144.0,5.1
+Hillingdon,2631.0,137.0,5.2
+Sutton,1188.0,68.0,5.7
+Bexley,1388.0,83.0,5.9
+Camden,3290.0,203.0,6.1
+Haringey,2363.0,145.0,6.2
+Greenwich,2370.0,160.0,6.9
+Waltham Forest,1989.0,169.0,8.6
+Westminster,5619.0,515.0,9.1
+Richmond upon Thames,973.0,102.0,10.6

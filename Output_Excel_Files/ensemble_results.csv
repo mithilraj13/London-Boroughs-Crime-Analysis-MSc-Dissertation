@@ -1,0 +1,4 @@
+Method,MAE
+SARIMA alone,2127.0
+Naive Seasonal alone,1983.5
+Ensemble (0.4/0.6 blend),1806.1

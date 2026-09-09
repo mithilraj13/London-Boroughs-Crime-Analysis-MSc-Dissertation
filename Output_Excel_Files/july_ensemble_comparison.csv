@@ -1,0 +1,2 @@
+Month,Actual,SARIMA_Forecast,Naive_Forecast,Ensemble_Forecast,SARIMA_Error,Naive_Error,Ensemble_Error
+2026-07,83665,84666,82509,83372,1.2,1.38,0.35
